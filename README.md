@@ -8,8 +8,8 @@
  Lista de cosas para trabajar : 
  
  
- - Git <Done>
- - Javascript
- - Python
- - HTML/CSS (seguramente los dos)
- - Kotlin
+ - [x] Git
+ - [ ] Javascript
+ - [ ] Python
+ - [ ] HTML/CSS (seguramente los dos)
+ - [ ] Kotlin
