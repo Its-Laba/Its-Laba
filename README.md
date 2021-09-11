@@ -10,6 +10,5 @@
  
  - [x] Git
  - [ ] Javascript
- - [ ] Python
- - [ ] HTML/CSS (seguramente los dos)
+ - [ ] Python (Working on)
  - [ ] Kotlin
