@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Lucas! 👋
 
-<!--
-**Its-Laba/Its-Laba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Computer Engineer | Master's in Data Science
 
-Here are some ideas to get you started:
+I'm passionate about technology and data analysis. The goal of this repository is to document my learning journey and share the projects I develop throughout my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 What I'm Learning:
+- 🔎 Data Science and Machine Learning
+- 🖥️ Backend Development and DevOps
+- ⚙️ Data Processing and Optimization
+- 🌍 Practical Applications in Various Fields
+
+### 🔥 Featured Projects:
+I'll be adding all the projects I complete, from data analysis to software development.
+
+📂 [Project Repository](https://github.com/your-username?tab=repositories)
+
+---
+
+### 🤝 Connect with Me:
+- 💼 [LinkedIn](https://linkedin.com/in/lucasabadbermejo)
+- 📫 [Email](mailto:abad.lucas.b@gmail.com)
+
+### 🛠️ Technologies I Use:
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+---
+
+This space will be my progress log! Each new project and learning experience will be part of my professional growth.
+
+If you're interested in collaborating or sharing ideas, feel free to reach out. 🚀✨
