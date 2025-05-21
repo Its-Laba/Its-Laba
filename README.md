@@ -10,12 +10,13 @@ I'm passionate about technology and data analysis. The goal of this repository i
 - 🔎 Data Science and Machine Learning
 - 🖥️ Backend Development and DevOps
 - ⚙️ Data Processing and Optimization
-- 🌍 Practical Applications in Various Fields
+- 🌍 Big Data & Cloud Computing
+- 🌐 Web Development & Apis
 
 ### 🔥 Featured Projects:
 I'll be adding all the projects I complete, from data analysis to software development.
 
-📂 [Project Repository](https://github.com/your-username?tab=repositories)
+📂 [PlaceHolder :D](https://github.com/your-username?tab=repositories)
 
 ---
 
